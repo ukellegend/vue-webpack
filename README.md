@@ -126,8 +126,6 @@ npm run build
 ##2016.9.11
 * 修复打包到生产环境时,index_prod.html文件的html结构错误的bug
 
-##2016.8.22
-* 全部改为ES2015
-* 抽离路由配置为router.js
-* 将routers目录重命名为views
-* vue配置默认支持less和sass
+##2016.12.08
+* clone项目
+
